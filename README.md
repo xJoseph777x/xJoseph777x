@@ -30,6 +30,7 @@ For me, the most interesting challenge is transforming a user action into a comp
 - REST APIs
 - Entity Framework
 - Git & GitHub
+- Azure
 
 ## What Motivates Me
 
